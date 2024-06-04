@@ -1,6 +1,6 @@
-# CoinStrike User Guide
+# SmartSpender User Guide
 
-Welcome to the CoinStrike user guide! This guide will walk you through the various features and functionalities of the application, helping you manage your income, expenses, categories, and accounts effectively.
+Welcome to the SmartSpender user guide! This guide will walk you through the various features and functionalities of the application, helping you manage your income, expenses, categories, and accounts effectively.
 
 ## Technology used
 
@@ -12,29 +12,27 @@ The project is developed using the following MERN technologies and frameworks:
 
 ## Features
 
-- **User Authentication:** CoinStrike provides secure user authentication functionality, allowing users to create an account, log in, and manage their personal finance data securely.
+- **User Authentication:** SmartSpender provides secure user authentication functionality, allowing users to create an account, log in, and manage their personal finance data securely.
 
 - **Dashboard Overview:** The interactive dashboard provides an at-a-glance overview of your financial status, including your total income, expenses, savings progress, and budget summaries.
 
-- **Income and Expense Tracking:** CoinStrike allows you to effortlessly record your income and expenses. You can categorize transactions, add descriptions, and specify transaction dates, making it easy to keep track of your financial activities.
-- **Subscription Tracking:** CoinStrike allows you to effortlessly record your income and expenses. You can categorize transactions, add descriptions, and specify transaction dates, making it easy to keep track of your financial activities.
-- **Block Expense without any Balance:** This feature helps users maintain control over their spending and avoid going into debt. When attempting to add an expense without sufficient balance, CoinStrike displays an alert or notification, reminding users to review their budget and available funds before making any additional expenses 
-- **Budget Management:** Set monthly budgets for different categories such as groceries, transportation, entertainment, and more. CoinStrike helps you stay within budget by providing real-time updates and alerts when you approach or exceed your set limits.
+- **Income and Expense Tracking:** SmartSpender allows you to effortlessly record your income and expenses. You can categorize transactions, add descriptions, and specify transaction dates, making it easy to keep track of your financial activities.
+- **Subscription Tracking:** SmartSpender allows you to effortlessly record your income and expenses. You can categorize transactions, add descriptions, and specify transaction dates, making it easy to keep track of your financial activities.
+- **Block Expense without any Balance:** This feature helps users maintain control over their spending and avoid going into debt. When attempting to add an expense without sufficient balance, SmartSpender displays an alert or notification, reminding users to review their budget and available funds before making any additional expenses 
+- **Budget Management:** Set monthly budgets for different categories such as groceries, transportation, entertainment, and more. SmartSpender helps you stay within budget by providing real-time updates and alerts when you approach or exceed your set limits.
 
-- **Expense Analysis:** CoinStrike offers comprehensive expense analysis tools, allowing you to visualize your spending patterns, identify trends, and gain insights into your financial habits. Analyze expenses by category, month, or custom time periods to make informed financial decisions.
+- **Expense Analysis:** SmartSpender offers comprehensive expense analysis tools, allowing you to visualize your spending patterns, identify trends, and gain insights into your financial habits. Analyze expenses by category, month, or custom time periods to make informed financial decisions.
 
-- **Reports and Insights:** Generate detailed reports and insightful charts to understand your financial performance better. CoinStrike provides visual representations of your income, expenses, budgets, and savings over time, empowering you to make data-driven decisions.
+- **Reports and Insights:** Generate detailed reports and insightful charts to understand your financial performance better. SmartSpender provides visual representations of your income, expenses, budgets, and savings over time, empowering you to make data-driven decisions.
 
-- **Transaction Sort:** Easily sort and filter transactions based on criteria such as category, amount, or date. CoinStrike's sort functionality helps you quickly locate specific transactions and provides a convenient way to review your financial history.
+- **Transaction Sort:** Easily sort and filter transactions based on criteria such as category, amount, or date. SmartSpender's sort functionality helps you quickly locate specific transactions and provides a convenient way to review your financial history.
 
-- **Responsive and User-Friendly Interface:** CoinStrike features a responsive and intuitive user interface, ensuring a seamless user experience across different devices and screen sizes.
+- **Responsive and User-Friendly Interface:** SmartSpender features a responsive and intuitive user interface, ensuring a seamless user experience across different devices and screen sizes.
 
-
-![Dashboard Page](./media/dashboard.jpg)
 
 ## Sections
 
-CoinStrike is divided into the following sections:
+SmartSpender is divided into the following sections:
 
 1. [Dashboard](#dashboard)
 2. [Transactions](#transactions)
@@ -45,7 +43,6 @@ CoinStrike is divided into the following sections:
 ## Dashboard
 
 The dashboard provides an overview of your financial information. It displays your current balance, income, expenses, and may include charts or graphs representing your spending patterns. Use the dashboard to get a quick snapshot of your financial situation.
-![Dashboard Page](./media/dashboard.jpg)
 
 ## Transactions
 
@@ -102,4 +99,4 @@ The settings feature allows you to manage your account settings and preferences.
 If you have any further questions or need assistance, please reach out to our [development team](./README.md#team).
 
 
-Enjoy using the CoinStrike!
+Enjoy using the SmartSpender!
